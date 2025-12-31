@@ -2,7 +2,7 @@
 
 BrainMon is a location-based monster-catching game built with Modern Android Development (MAD) standards. Players explore real-world biomes, battle monsters using their knowledge (Math, Science, History), and complete their Pokedex.
 
-![App Demo](screenshots/demo.gif)
+<img src="screenshots/demo.gif" width="400" alt="App Demo" />
 
 ## 📥 Download
 [**Download the APK here**](https://github.com/kornti-debug/BrainMon/releases/tag/v1.0)
