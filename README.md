@@ -2,10 +2,10 @@
 
 BrainMon is a location-based monster-catching game built with Modern Android Development (MAD) standards. Players explore real-world biomes, battle monsters using their knowledge (Math, Science, History), and complete their Pokedex.
 
-![App Demo](screenshot/demo.gif)
+![App Demo](./screenshot/demo.gif)
 
 ## 📥 Download
-[**Download the APK here**]([LINK_TO_YOUR_GITHUB_RELEASE](https://github.com/kornti-debug/BrainMon/releases/tag/v1.0))
+[**Download the APK here**](https://github.com/kornti-debug/BrainMon/releases/tag/v1.0)
 
 ## 🚀 Features
 * **Reactive UI:** Built 100% with **Jetpack Compose**.
@@ -27,5 +27,5 @@ BrainMon is a location-based monster-catching game built with Modern Android Dev
 ## 📸 Screenshots
 | Explore Screen | Battle Screen | Pokedex |
 |:---:|:---:|:---:|
-| <img src="brainmon_dashboard.png" width="200"/> | <img src="brainmon_explorescreen.png" width="200"/> | <img src="brainmon_battlescreen.png" width="200"/>
-| <img src="brainmon_pokedex.png" width="200"/> | <img src="brainmon_labscreen.png" width="200"/> | <img src="brainmon_statsscreen.png" width="200"/>
+| <img src="./screenshot/brainmon_dashboard.png" width="200"/> | <img src="./screenshot/brainmon_explorescreen.png" width="200"/> | <img src="./screenshot/brainmon_battlescreen.png" width="200"/>
+| <img src="./screenshot/brainmon_pokedex.png" width="200"/> | <img src="./screenshot/brainmon_labscreen.png" width="200"/> | <img src="./screenshot/brainmon_statsscreen.png" width="200"/>
